@@ -71,13 +71,13 @@
 [01.  Average Nucleotide Identity analysis](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis)
 
 
-- [Bacterial Phylogenetic Tree Reconstruction Using UBCG Pipeline](https://github.com/asadprodhan/Bacterial-phylogenetic-tree-reconstruction-using-UBCG-pipeline)
+[02.  Bacterial Phylogenetic Tree Reconstruction Using UBCG Pipeline](https://github.com/asadprodhan/Bacterial-phylogenetic-tree-reconstruction-using-UBCG-pipeline)
 
 
-- [How to run Kraken2 on HPC using Singularity container and Nextflow?](https://github.com/asadprodhan/How-to-run-Kraken2-on-HPC-using-Singularity-container-and-Nextflow)
+[03.  How to run Kraken2 on HPC using Singularity container and Nextflow?](https://github.com/asadprodhan/How-to-run-Kraken2-on-HPC-using-Singularity-container-and-Nextflow)
 
 
-- [Setting up and running Miniasm assembler](https://github.com/asadprodhan/Setting-up-and-running-Miniasm-assembler)
+[04.  Setting up and running Miniasm assembler](https://github.com/asadprodhan/Setting-up-and-running-Miniasm-assembler)
 
 
 
