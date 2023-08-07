@@ -1,4 +1,13 @@
 # Bioinformatics Educational Resources
+<br />
+
+### **Asad Prodhan PhD** 
+
+
+**https://asadprodhan.github.io/**
+
+
+<br />
 
 
 
