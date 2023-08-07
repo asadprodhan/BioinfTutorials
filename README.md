@@ -1,17 +1,11 @@
 # Bioinformatics Educational Resources
+## A collection of tutorials designed to teach coding from basics to bioinformatics.
 <br />
 
 ### **Asad Prodhan PhD** 
 
 
 **https://asadprodhan.github.io/**
-
-
-<br />
-
-
-
-## A collection of tutorials designed to teach coding from basics to bioinformatics.
 
 
 <br />
