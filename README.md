@@ -1,5 +1,6 @@
 # Bioinformatics Educational Resources
-*A collection of tutorials designed to teach coding from basics to bioinformatics.*
+***A collection of tutorials designed to teach coding from basics to bioinformatics.***
+
 <br />
 
 ### **Asad Prodhan PhD** 
@@ -10,6 +11,7 @@
 
 
 <br />
+
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/Bioinformatics_Educational_Resources/blob/main/Parts_of_a_Supercomputer_Setonix.png"
@@ -22,6 +24,7 @@ Bioinformatics analysis using remote supercomputers
 
 <br />
 
+<br />
 
 
 ### Coding learning resources
