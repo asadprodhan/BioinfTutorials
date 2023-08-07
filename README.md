@@ -33,35 +33,36 @@
 ### Introduction to bioinformatics coding
 
 
-- [A beginner's guide to Bioinformatics](https://github.com/asadprodhan/A-beginner-s-guide-to-Bioinformatics)
+[01.  A beginner's guide to Bioinformatics](https://github.com/asadprodhan/A-beginner-s-guide-to-Bioinformatics)
 
 
-- [How to download genomes using the accession number](https://github.com/asadprodhan/How-to-download-genomes-using-the-accession-number)
+[02.  How to download genomes using the accession number](https://github.com/asadprodhan/How-to-download-genomes-using-the-accession-number)
 
   
-- [Downloading Genomes from RefSeq](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
+[03.  Downloading Genomes from RefSeq](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
 
 
 
 ### Nanopore sequencing data
 
 
-- [Reducing storage space by converting Nanopore fast5 files to slow5 using slow5tools](https://github.com/asadprodhan/Reducing-storage-space-by-converting-Nanopore-fast5-to-slow5-using-slow5tools)
+[01.  Reducing storage space by converting Nanopore fast5 files to slow5 using slow5tools](https://github.com/asadprodhan/Reducing-storage-space-by-converting-Nanopore-fast5-to-slow5-using-slow5tools)
 
 
-- [GPU-accelerated guppy basecalling](https://github.com/asadprodhan/GPU-accelerated-guppy-basecalling)
+[02.  GPU-accelerated guppy basecalling](https://github.com/asadprodhan/GPU-accelerated-guppy-basecalling)
 
 
-- [Automating sample labelling after Nanopore sequencing](https://github.com/asadprodhan/Automating-sample-labelling-after-Nanopore-sequencing)
+[03.  Automating sample labelling after Nanopore sequencing](https://github.com/asadprodhan/Automating-sample-labelling-after-Nanopore-sequencing)
 
 
-- [How to filter out contigs from a genome assembly file](https://github.com/asadprodhan/How-to-filter-contigs-from-a-genome-assembly)
+[04.  How to filter out contigs from a genome assembly file](https://github.com/asadprodhan/How-to-filter-contigs-from-a-genome-assembly)
 
 
-- [How to extract individual entries from a large fasta file](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries)
+[05.  How to extract individual entries from a large fasta file](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries)
 
 
-- [Filtering out invalid characters from fastq reads](https://github.com/asadprodhan/Filtering-out-invalid-characters-from-fastq-reads)
+[06.  Filtering out invalid characters from fastq reads](https://github.com/asadprodhan/Filtering-out-invalid-characters-from-fastq-reads)
+
 
 
 ### Some common bioinformatics analyses
