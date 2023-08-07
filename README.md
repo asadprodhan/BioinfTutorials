@@ -2,23 +2,26 @@
 
 
 
-A collection of tutorials designed to teach coding from basics to bioinformatics:
+## A collection of tutorials designed to teach coding from basics to bioinformatics.
 
 
 <br />
 
+
 ## Table of Contents  
 
 
-## Coding learning resources
+### Coding learning resources
 
 - [Getting started with bioinformatics coding](https://github.com/asadprodhan/Getting-started-with-bioinformatics-coding)
 
 
-Introduction to R
+### Introduction to R
 
 
-- [Why graduate students should learn R?](https://github.com/asadprodhan/Why_graduate_students_should_learn_R)  
+- [Why graduate students should learn R?](https://github.com/asadprodhan/Why_graduate_students_should_learn_R)
+
+  
 - [How to run pyani](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#how-to-run-pyani)  
 - [Results](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#results)  
 - [References](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#references)  
