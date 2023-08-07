@@ -8,6 +8,18 @@
 **https://asadprodhan.github.io/**
 
 
+
+<br />
+<p align="center">
+  <img 
+    src="https://github.com/asadprodhan/Bioinformatics_Educational_Resources/blob/main/Parts_of_a_Supercomputer_Setonix.png"
+  >
+</p>
+<p align = "center">
+Bioinformatics analysis using remote supercomputers
+</p>
+
+
 <br />
 
 
