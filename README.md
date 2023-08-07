@@ -17,18 +17,18 @@
 ### Introduction to R
 
 
-- [Why graduate students should learn R?](https://github.com/asadprodhan/Why_graduate_students_should_learn_R)
+[01.  Why graduate students should learn R?](https://github.com/asadprodhan/Why_graduate_students_should_learn_R)
 
 
 
 
-- [Setting up RStudio](https://github.com/asadprodhan/Setting-up-R-Studio)
+[02.  Setting up RStudio](https://github.com/asadprodhan/Setting-up-R-Studio)
 
 
-- [An Introduction to R Coding](https://github.com/asadprodhan/An-introduction-to-R-coding)
+[03.  An Introduction to R Coding](https://github.com/asadprodhan/An-introduction-to-R-coding)
 
   
-- [Data visualisation and analysis in R](https://github.com/asadprodhan/Data_Visualisation_and_Analysis_in_R)
+[04.  Data visualisation and analysis in R](https://github.com/asadprodhan/Data_Visualisation_and_Analysis_in_R)
 
 
 ### Introduction to bioinformatics coding
