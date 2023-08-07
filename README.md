@@ -56,7 +56,7 @@
 - [Automating sample labelling after Nanopore sequencing](https://github.com/asadprodhan/Automating-sample-labelling-after-Nanopore-sequencing)
 
 
--[How to filter out contigs from a genome assembly file](https://github.com/asadprodhan/How-to-filter-contigs-from-a-genome-assembly)
+- [How to filter out contigs from a genome assembly file](https://github.com/asadprodhan/How-to-filter-contigs-from-a-genome-assembly)
 
 
 - [How to extract individual entries from a large fasta file](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries)
@@ -79,30 +79,6 @@
 
 - [Setting up and running Miniasm assembler](https://github.com/asadprodhan/Setting-up-and-running-Miniasm-assembler)
 
-
-
-
-- [How to run pyani](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#how-to-run-pyani)  
-- [Results](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#results)  
-- [References](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#references)   [How to run pyani](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#how-to-run-pyani)  
-- [Results](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#results)  
-- [References](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#references)  
-
- [How to run pyani](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#how-to-run-pyani)  
-- [Results](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#results)  
-- [References](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#references)  
-
- [How to run pyani](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#how-to-run-pyani)  
-- [Results](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#results)  
-- [References](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#references)  
-
- [How to run pyani](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#how-to-run-pyani)  
-- [Results](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#results)  
-- [References](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#references)  
-
- [How to run pyani](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#how-to-run-pyani)  
-- [Results](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#results)  
-- [References](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#references)  
 
 
 <a name="headers"/>
