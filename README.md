@@ -1,5 +1,5 @@
-# Bioinformatics_Educational_Resources
-Bioinformatics Educational Resources
+# Bioinformatics Educational Resources
+
 
 
 A collection of tutorials designed to teach coding from basics to bioinformatics:
