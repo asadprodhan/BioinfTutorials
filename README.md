@@ -29,7 +29,7 @@ Bioinformatics analysis using remote supercomputers
 
 ### Coding learning resources
 
-- [Getting started with bioinformatics coding](https://github.com/asadprodhan/Getting-started-with-bioinformatics-coding)
+[01.  Getting started with bioinformatics coding](https://github.com/asadprodhan/Getting-started-with-bioinformatics-coding)
 
 
 ### Introduction to R
