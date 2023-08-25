@@ -139,11 +139,16 @@ Bioinformatics analysis using remote supercomputers
 [07.  How to extract individual entries from a large fasta file](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries) 
 
 
-### Some common bioinformatics analyses
+### Science writing
 
 
 [01.  Publishing a paper. Professor Hans Lambers](https://github.com/asadprodhan/Publishing_a_paper_by_Prof_Lambers/blob/main/Publishing%20a%20paper%202013.pdf)
 
+
+### Invited talks
+
+
+[01.  Publishing a paper. Professor Hans Lambers](https://github.com/asadprodhan/Publishing_a_paper_by_Prof_Lambers/blob/main/Publishing%20a%20paper%202013.pdf)
 
 
 <a name="headers"/>
