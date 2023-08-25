@@ -148,7 +148,7 @@ Bioinformatics analysis using remote supercomputers
 ### Invited talks
 
 
-[01.  Publishing a paper. Professor Hans Lambers](https://github.com/asadprodhan/Publishing_a_paper_by_Prof_Lambers/blob/main/Publishing%20a%20paper%202013.pdf)
+[01.  Preparing for a career after university. Career Development Workshop, UWA Society of Bangladeshi Culture (USBC), The University of Western Australia, Perth, Australia, 26 August 2023](https://github.com/asadprodhan/Invited_talks/blob/main/2023-08-26_UWA_Career_Dev_Workshop_AP_V5.pdf)
 
 
 <a name="headers"/>
