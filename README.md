@@ -1,15 +1,19 @@
-# Bioinformatics Educational Resources
+# Bioinformatics Tutorials
 
 
 ### **AUTHOR:** **Dr Asad Prodhan** https://asadprodhan.github.io/
 
 
+
+
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/Bioinformatics_Educational_Resources/blob/main/Parts_of_a_Supercomputer_Setonix.png"
- width=60% height=60% >
+ align="center" width=60% height=50% >
+    
 </p>
-<p align = "center">
+
+<p align = center>
 Bioinformatics analysis using remote supercomputers
 </p>
 
