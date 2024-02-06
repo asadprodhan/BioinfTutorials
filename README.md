@@ -28,16 +28,16 @@ Bioinformatics analysis using remote supercomputers
 ### Download genomic data from public repository
 
 
-[01.  Genome sequence metadata [manual]](https://github.com/asadprodhan/Why_graduate_students_should_learn_R)
+[01.  Genome sequence metadata [manual]]()
 
 
-[02.  Genome sequence metadata [command line]](https://github.com/asadprodhan/An-introduction-to-R-coding)
+[02.  Genome sequence metadata [command line]](https://github.com/asadprodhan/How-to-download-the-metadata-of-all-publicly-available-genome-sequences-of-an-organism)
 
 
-[03.  Genome sequences [manual]](https://github.com/asadprodhan/Setting-up-R-Studio)
+[03.  Genome sequences [manual]]()
 
 
-[04.  Genome sequences using datasets [command line]](https://github.com/asadprodhan/Data_Visualisation_and_Analysis_in_R)
+[04.  Genome sequences using datasets [command line]]()
 
 
 [05.  Genome sequences using wget [command line]](https://github.com/asadprodhan/How-to-download-genomes-using-the-accession-number)
