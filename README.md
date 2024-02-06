@@ -31,7 +31,7 @@ Bioinformatics analysis using remote supercomputers
 [01.  Genome sequence metadata [manual]](https://github.com/asadprodhan/Why_graduate_students_should_learn_R)
 
 
-[02.  Download genome sequences [manual]](https://github.com/asadprodhan/Setting-up-R-Studio)
+[02.  Genome sequences [manual]](https://github.com/asadprodhan/Setting-up-R-Studio)
 
 
 [03.  Genome sequence metadata using datasets [command line]](https://github.com/asadprodhan/An-introduction-to-R-coding)
