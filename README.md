@@ -28,29 +28,22 @@ Bioinformatics analysis using remote supercomputers
 ### Download genomic data from public repository
 
 
-## Manual 
+[01.  Genome sequence metadata [manual]](https://github.com/asadprodhan/Why_graduate_students_should_learn_R)
 
 
-[01.  Genome sequence metadata](https://github.com/asadprodhan/Why_graduate_students_should_learn_R)
+[02.  Download genome sequences [manual]](https://github.com/asadprodhan/Setting-up-R-Studio)
 
 
-[02.  Download genome sequences](https://github.com/asadprodhan/Setting-up-R-Studio)
-
-
-
-## Automatic 
-
-
-[03.  Genome sequence metadata using datasets](https://github.com/asadprodhan/An-introduction-to-R-coding)
+[03.  Genome sequence metadata using datasets [command line]](https://github.com/asadprodhan/An-introduction-to-R-coding)
 
   
-[04.  Genome sequences using datasets](https://github.com/asadprodhan/Data_Visualisation_and_Analysis_in_R)
+[04.  Genome sequences using datasets [command line]](https://github.com/asadprodhan/Data_Visualisation_and_Analysis_in_R)
 
 
-[05.  Genome sequences using wget](https://github.com/asadprodhan/How-to-download-genomes-using-the-accession-number)
+[05.  Genome sequences using wget [command line]](https://github.com/asadprodhan/How-to-download-genomes-using-the-accession-number)
 
   
-[06.  RefSeq genome sequences using wget](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
+[06.  RefSeq genome sequences using wget [command line]](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
 
 
 
