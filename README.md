@@ -28,7 +28,7 @@ Bioinformatics analysis using remote supercomputers
 ### Download genomic data from public repository
 
 
-[01.  Genome sequence metadata [manual]]()
+[01.  Genome sequence metadata [manual]](https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI)
 
 
 [02.  Genome sequence metadata [command line]](https://github.com/asadprodhan/How-to-download-the-metadata-of-all-publicly-available-genome-sequences-of-an-organism)
