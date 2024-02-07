@@ -37,7 +37,7 @@ Bioinformatics analysis using remote supercomputers
 [03.  Genome sequences [manual]](https://github.com/asadprodhan/How_to_download_genome_sequences_manually)
 
 
-[04.  Genome sequences using datasets [command line]]()
+[04.  Genome sequences using datasets [command line]](https://github.com/asadprodhan/How-to-download-all-the-available-genome-sequences-of-an-organism-automatically)
 
 
 [05.  Genome sequences using wget [command line]](https://github.com/asadprodhan/How-to-download-genomes-using-the-accession-number)
