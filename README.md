@@ -169,6 +169,13 @@ Bioinformatics analysis using remote supercomputers
 [02.  Preparing for a career after university. Career Development Workshop, UWA Society of Bangladeshi Culture (USBC), The University of Western Australia, Perth, Australia, 26 August 2023.](https://github.com/asadprodhan/Invited_talks/blob/main/2023-08-26_UWA_Career_Dev_Workshop_AP_V5.pdf)
 
 
+[03.  Command Line Basics. Nanopore Workshop for Biosecurity, Curtin University, Perth, Australia, 27-29 June 2023.](https://github.com/asadprodhan/Conference_Talks/blob/main/Command_Line_Basics_AsadProdhan.pdf)
+
+
+[04.  Introductory Bioinformatics: Where do I start? Murdoch Bioinformatics, Murdoch University, Perth, Australia, 04 April 2024.](https://github.com/asadprodhan/Invited_talks/blob/main/2024-04-04_IntroductoryBioinformatics_MU_AsadProdhan_V3.pdf)
+
+
+
 <a name="headers"/>
 
 <br />
