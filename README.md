@@ -133,25 +133,25 @@ Bioinformatics analysis using remote supercomputers
 ### Some common bioinformatics analyses
 
 
-[01.  How to automatically download blastn database, run blastn, and extract blastn hit sequences? Plus the possible errors](https://github.com/asadprodhan/blastn)
+[01.  Blastn (database download, execution, hit sequence extraction, and possible errors)](https://github.com/asadprodhan/blastn)
 
 
-[02.  Average Nucleotide Identity](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis)
+[02.  ANI (average nucleotide identity)](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis)
 
 
-[03.  Bacterial Phylogenetic Tree Reconstruction Using UBCG Pipeline](https://github.com/asadprodhan/Bacterial-phylogenetic-tree-reconstruction-using-UBCG-pipeline)
+[03.  Bacterial ID (phylogenetic tree reconstruction using UBCG pipeline)](https://github.com/asadprodhan/Bacterial-phylogenetic-tree-reconstruction-using-UBCG-pipeline)
 
 
-[04.  How to run Kraken2 on HPC using Singularity container and Nextflow?](https://github.com/asadprodhan/How-to-run-Kraken2-on-HPC-using-Singularity-container-and-Nextflow)
+[04.  Kraken 2 (running on HPC using singularity container and nextflow?)](https://github.com/asadprodhan/How-to-run-Kraken2-on-HPC-using-Singularity-container-and-Nextflow)
 
 
-[05.  Setting up and running Miniasm assembler](https://github.com/asadprodhan/Setting-up-and-running-Miniasm-assembler)
+[05.  Miniasm (setting up and running miniasm assembler](https://github.com/asadprodhan/Setting-up-and-running-Miniasm-assembler)
 
 
-[06.  phyloTree, an automated, reproducible, and scalable workflow for Bayesian phylogenetic analysis using Nextflow and Singularity](https://github.com/asadprodhan/phyloTree)
+[06.  phyloTree (an automated, reproducible, and scalable workflow for Bayesian phylogenetic analysis using Nextflow and Singularity)](https://github.com/asadprodhan/phyloTree)
 
 
-[07.  phyloTreeHPC, an automated, reproducible, and scalable workflow for Bayesian phylogenetic analysis using a HPC cluster, Nextflow, and Singularity container](https://github.com/asadprodhan/phyloTreeHPC) 
+[07.  phyloTreeHPC (an automated, reproducible, and scalable workflow for Bayesian phylogenetic analysis using a HPC cluster, Nextflow, and Singularity container)](https://github.com/asadprodhan/phyloTreeHPC) 
 
 
 [08.  How to extract individual entries from a large fasta file](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries) 
