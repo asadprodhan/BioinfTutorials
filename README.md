@@ -133,7 +133,7 @@ Bioinformatics analysis using remote supercomputers
 ### Some common bioinformatics analyses
 
 
-[01.  Blastn](https://github.com/asadprodhan/blastn)
+[01.  How to automatically download blastn database, run blastn, and extract blastn hit sequences? Plus the possible errors](https://github.com/asadprodhan/blastn)
 
 
 [02.  Average Nucleotide Identity](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis)
