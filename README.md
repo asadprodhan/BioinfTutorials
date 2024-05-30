@@ -4,6 +4,10 @@
 ### **AUTHOR:** **Dr Asad Prodhan** https://asadprodhan.github.io/
 
 
+[![License GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-yellow.svg)]([https://github.com/asadprodhan/How_to_set_up_WSL#GPL-3.0-1-ov-fil](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#GPL-3.0-1-ov-file)e)
+
+
+<br />
 
 
 <p align="center">
@@ -18,14 +22,18 @@ Bioinformatics analysis using remote supercomputers
 </p>
 
 
+<br />
 
-### Coding learning resources
+
+## **Coding learning resources**
 
 [01.  Getting started with bioinformatics coding](https://github.com/asadprodhan/Getting-started-with-bioinformatics-coding)
 
 
+<br />
 
-### Download genomic data from public repository
+
+## **Download genomic data from public repository**
 
 
 [01.  Genome sequence metadata [manual]](https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI)
@@ -46,8 +54,10 @@ Bioinformatics analysis using remote supercomputers
 [06.  RefSeq genome sequences using wget [command line]](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
 
 
+<br />
 
-### Introduction to R
+
+## **Introduction to R**
 
 
 [01.  Why graduate students should learn R?](https://github.com/asadprodhan/Why_graduate_students_should_learn_R)
@@ -62,7 +72,10 @@ Bioinformatics analysis using remote supercomputers
 [04.  Data visualisation and analysis in R](https://github.com/asadprodhan/Data_Visualisation_and_Analysis_in_R)
 
 
-### Introduction to Bash
+<br />
+
+
+## **Introduction to Bash**
 
 
 [01.  Command Line Basics](https://github.com/asadprodhan/Conference_Talks/blob/main/Command_Line_Basics_AsadProdhan.pdf) 
@@ -74,7 +87,10 @@ Bioinformatics analysis using remote supercomputers
 [03.  A Bash Script Showing Directory Properties in Linux](https://github.com/asadprodhan/A-Bash-Script-Showing-Directory-Properties-in-Linux) 
 
 
-### Introduction to bioinformatics coding
+<br />
+
+
+## **Introduction to bioinformatics coding**
 
 
 [01.  A beginner's guide to Bioinformatics](https://github.com/asadprodhan/A-beginner-s-guide-to-Bioinformatics)
@@ -90,8 +106,10 @@ Bioinformatics analysis using remote supercomputers
 [04.  Downloading Genomes from RefSeq](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
 
 
+<br />
 
-### Introduction to remote computing
+
+## **Introduction to remote computing**
 
 
 [01.  How to connect to a remote Linux computer](https://github.com/asadprodhan/How-to-connect-to-a-remote-Linux_computer) 
@@ -103,7 +121,10 @@ Bioinformatics analysis using remote supercomputers
 [03.  How to mount My Cloud NAS device to Linux computer](https://github.com/asadprodhan/How-to-mount-My-Cloud-NAS-device-to-Linux) 
 
 
-### Nanopore sequencing data
+<br />
+
+
+## **Nanopore sequencing data**
 
 
 [01.  An introduction to Nanopore DNA sequencing and data analysis](https://github.com/asadprodhan/Conference_Talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf) 
@@ -130,7 +151,10 @@ Bioinformatics analysis using remote supercomputers
 [08.  Filtering out invalid characters from fastq reads](https://github.com/asadprodhan/Filtering-out-invalid-characters-from-fastq-reads)
 
 
-### Some common bioinformatics analyses
+<br />
+
+
+## **Some common bioinformatics analyses**
 
 
 [01.  Blastn (database download, execution, hit sequence extraction, and possible errors)](https://github.com/asadprodhan/blastn)
@@ -157,13 +181,19 @@ Bioinformatics analysis using remote supercomputers
 [08.  How to extract individual entries from a large fasta file](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries) 
 
 
-### Science writing
+<br />
+
+
+## **Science writing**
 
 
 [01.  Publishing a paper. Professor Hans Lambers](https://github.com/asadprodhan/Publishing_a_paper_by_Prof_Lambers/blob/main/Publishing%20a%20paper%202013.pdf)
 
 
-### Invited talks
+<br />
+
+
+## **Invited talks**
 
 
 [01.  An introduction to Nanopore DNA sequencing and data analysis. Nanopore Workshop for Biosecurity, Curtin University, Perth, Australia, 27-29 June 2023.](https://github.com/asadprodhan/Invited_talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf)
@@ -180,6 +210,7 @@ Bioinformatics analysis using remote supercomputers
 
 
 <a name="headers"/>
+
 
 <br />
 
