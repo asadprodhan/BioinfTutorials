@@ -28,19 +28,25 @@ Bioinformatics analysis using remote supercomputers
 <br />
 
 
-## **Coding learning resources**
+## **Getting Started**
 
 
-[01.  How to set up Windows Subsystem for Linux (WSL)?](https://github.com/asadprodhan/How_to_set_up_WSL)
+[01.  A beginner's guide to Bioinformatics](https://github.com/asadprodhan/A-beginner-s-guide-to-Bioinformatics)
 
 
-[02.  Getting started with bioinformatics coding](https://github.com/asadprodhan/Getting-started-with-bioinformatics-coding)
+[02.  How to set up Windows Subsystem for Linux (WSL)?](https://github.com/asadprodhan/How_to_set_up_WSL)
+
+
+[03.  Getting started with bioinformatics coding](https://github.com/asadprodhan/Getting-started-with-bioinformatics-coding) 
+
+
+[04.  About the PATH](https://github.com/asadprodhan/About-the-PATH) 
 
 
 <br />
 
 
-## **Download genomic data from public repository**
+## **Download NCBI data**
 
 
 [01.  Genome sequence metadata [manual]](https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI)
@@ -61,10 +67,17 @@ Bioinformatics analysis using remote supercomputers
 [06.  RefSeq genome sequences using wget [command line]](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
 
 
+[07.  How to download genomes using the accession number](https://github.com/asadprodhan/How-to-download-genomes-using-the-accession-number)
+
+  
+[08.  Downloading Genomes from RefSeq](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
+
+
+
 <br />
 
 
-## **Introduction to R**
+## **R**
 
 
 [01.  Why graduate students should learn R?](https://github.com/asadprodhan/Why_graduate_students_should_learn_R)
@@ -82,7 +95,7 @@ Bioinformatics analysis using remote supercomputers
 <br />
 
 
-## **Introduction to Bash**
+## **Bash**
 
 
 [01.  Command Line Basics](https://github.com/asadprodhan/Conference_Talks/blob/main/Command_Line_Basics_AsadProdhan.pdf) 
@@ -97,26 +110,7 @@ Bioinformatics analysis using remote supercomputers
 <br />
 
 
-## **Introduction to bioinformatics coding**
-
-
-[01.  A beginner's guide to Bioinformatics](https://github.com/asadprodhan/A-beginner-s-guide-to-Bioinformatics)
-
-
-[02.  About the PATH](https://github.com/asadprodhan/About-the-PATH) 
-
-
-
-[03.  How to download genomes using the accession number](https://github.com/asadprodhan/How-to-download-genomes-using-the-accession-number)
-
-  
-[04.  Downloading Genomes from RefSeq](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
-
-
-<br />
-
-
-## **Introduction to remote computing**
+## **Remote computing**
 
 
 [01.  How to connect to a remote Linux computer](https://github.com/asadprodhan/How-to-connect-to-a-remote-Linux_computer) 
@@ -131,7 +125,7 @@ Bioinformatics analysis using remote supercomputers
 <br />
 
 
-## **Nanopore sequencing data**
+## **Nanopore**
 
 
 [01.  An introduction to Nanopore DNA sequencing and data analysis](https://github.com/asadprodhan/Conference_Talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf) 
@@ -164,7 +158,7 @@ Bioinformatics analysis using remote supercomputers
 <br />
 
 
-## **Some common bioinformatics analyses**
+## **Bioinformatics**
 
 
 [01.  Blastn (database download, execution, hit sequence extraction, and possible errors)](https://github.com/asadprodhan/blastn)
@@ -194,7 +188,7 @@ Bioinformatics analysis using remote supercomputers
 <br />
 
 
-## **Science writing**
+## **Writing**
 
 
 [01.  Publishing a paper. Professor Hans Lambers](https://github.com/asadprodhan/Publishing_a_paper_by_Prof_Lambers/blob/main/Publishing%20a%20paper%202013.pdf)
@@ -203,7 +197,7 @@ Bioinformatics analysis using remote supercomputers
 <br />
 
 
-## **Invited talks**
+## **Talks**
 
 
 [01.  An introduction to Nanopore DNA sequencing and data analysis. Nanopore Workshop for Biosecurity, Curtin University, Perth, Australia, 27-29 June 2023.](https://github.com/asadprodhan/Invited_talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf)
