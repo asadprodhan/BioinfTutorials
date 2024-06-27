@@ -140,19 +140,22 @@ Bioinformatics analysis using remote supercomputers
 [04.  Dorado basecalling](https://github.com/asadprodhan/Dorado_Basecalling)
 
 
-[05.  Automating sample labelling after Nanopore sequencing](https://github.com/asadprodhan/Automating-sample-labelling-after-Nanopore-sequencing)
+[05.  Dorado basecalled reads improve old bacterial genome assembly](https://github.com/asadprodhan/Dorado-basecalled-reads-improve-old-bacterial-genome-assembly-)
 
 
-[06.  How to channel sequencing reads from multiple subdirectories into nextflow pipeline](https://github.com/asadprodhan/How-to-channel-sequencing-reads-from-multiple-subdirectories-into-nextflow-pipeline) 
+[06.  Automating sample labelling after Nanopore sequencing](https://github.com/asadprodhan/Automating-sample-labelling-after-Nanopore-sequencing)
 
 
-[07.  How to filter out contigs from a genome assembly file](https://github.com/asadprodhan/How-to-filter-contigs-from-a-genome-assembly)
+[07.  How to channel sequencing reads from multiple subdirectories into nextflow pipeline](https://github.com/asadprodhan/How-to-channel-sequencing-reads-from-multiple-subdirectories-into-nextflow-pipeline) 
 
 
-[08.  How to extract individual entries from a large fasta file](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries)
+[08.  How to filter out contigs from a genome assembly file](https://github.com/asadprodhan/How-to-filter-contigs-from-a-genome-assembly)
 
 
-[09.  Filtering out invalid characters from fastq reads](https://github.com/asadprodhan/Filtering-out-invalid-characters-from-fastq-reads)
+[09.  How to extract individual entries from a large fasta file](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries)
+
+
+[10.  Filtering out invalid characters from fastq reads](https://github.com/asadprodhan/Filtering-out-invalid-characters-from-fastq-reads)
 
 
 <br />
