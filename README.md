@@ -1,9 +1,7 @@
 # Bioinformatics Tutorials
 
 
-### **AUTHOR:** **Dr Asad Prodhan** https://asadprodhan.github.io/
-
-
+### **AUTHOR:** **Dr Asad Prodhan** https://asadprodhan.github.io/ 
 [![License GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-yellow.svg)]([https://github.com/asadprodhan/How_to_set_up_WSL#GPL-3.0-1-ov-fil](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#GPL-3.0-1-ov-file)e)
 
 
@@ -18,11 +16,43 @@
 </p>
 
 <p align = center>
-Bioinformatics analysis using remote supercomputers
+Bioinformatics Computing
 </p>
 
 
-<br />
+
+## **Content**
+
+
+[01.  Getting Started](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#getting-started)
+
+
+[02.  R](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#r)
+
+
+[03.  Bash](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bash)
+
+
+[04.  Remote Computing](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#remote-computing)
+
+
+[05.  Download NCBI data](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#download-ncbi-data)
+
+
+[06.  Nanopore](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#nanopore)
+
+
+[07.  Bioinformatics Analysis](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bioinformatics-analysis)
+
+
+[08.  Bioinformatics Pipelines](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bioinformatics-pipelines)
+
+
+[09.  Writing](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#writing)
+
+
+[10.  Talks](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#talks)
+
 
 
 <br />
