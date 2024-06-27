@@ -212,7 +212,10 @@ Bioinformatics analysis using remote supercomputers
 ## **Writing**
 
 
-[01.  Publishing a paper. Professor Hans Lambers](https://github.com/asadprodhan/Publishing_a_paper_by_Prof_Lambers/blob/main/Publishing%20a%20paper%202013.pdf)
+[01.  Writing and Publishing Protocols using GitHub](https://github.com/asadprodhan/Writing-and-Publishing-Protocols-Using-GitHub)
+
+
+[02.  Publishing a paper. Professor Hans Lambers](https://github.com/asadprodhan/Publishing_a_paper_by_Prof_Lambers/blob/main/Publishing%20a%20paper%202013.pdf)
 
 
 <br />
