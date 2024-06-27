@@ -161,7 +161,7 @@ Bioinformatics analysis using remote supercomputers
 <br />
 
 
-## **Bioinformatics**
+## **Bioinformatics Analysis**
 
 
 [01.  Blastn (database download, execution, hit sequence extraction, and possible errors)](https://github.com/asadprodhan/blastn)
@@ -179,13 +179,22 @@ Bioinformatics analysis using remote supercomputers
 [05.  Miniasm (setting up and running miniasm assembler](https://github.com/asadprodhan/Setting-up-and-running-Miniasm-assembler)
 
 
-[06.  phyloTree (an automated, reproducible, and scalable workflow for Bayesian phylogenetic analysis using Nextflow and Singularity)](https://github.com/asadprodhan/phyloTree)
+[06.  How to extract individual entries from a large fasta file](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries) 
 
 
-[07.  phyloTreeHPC (an automated, reproducible, and scalable workflow for Bayesian phylogenetic analysis using a HPC cluster, Nextflow, and Singularity container)](https://github.com/asadprodhan/phyloTreeHPC) 
+<br />
 
 
-[08.  How to extract individual entries from a large fasta file](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries) 
+## **Bioinformatics Pipelines**
+
+
+[01.  sangerFlow (a Sanger sequencing-based bioinformatics pipeline for pests and pathogens identification)](https://github.com/asadprodhan/sangerFlow)
+
+
+[02.  phyloTree (an automated, reproducible, and scalable workflow for Bayesian phylogenetic analysis using Nextflow and Singularity)](https://github.com/asadprodhan/phyloTree)
+
+
+[03.  phyloTreeHPC (an automated, reproducible, and scalable workflow for Bayesian phylogenetic analysis using a HPC cluster, Nextflow, and Singularity container)](https://github.com/asadprodhan/phyloTreeHPC) 
 
 
 <br />
