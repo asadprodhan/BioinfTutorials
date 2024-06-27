@@ -37,10 +37,13 @@ Bioinformatics analysis using remote supercomputers
 [02.  How to set up Windows Subsystem for Linux (WSL)?](https://github.com/asadprodhan/How_to_set_up_WSL)
 
 
-[03.  Getting started with bioinformatics coding](https://github.com/asadprodhan/Getting-started-with-bioinformatics-coding) 
+[03.  Navigating a Linux Computer](https://github.com/asadprodhan/Navigating_a_Linux_computer)
 
 
-[04.  About the PATH](https://github.com/asadprodhan/About-the-PATH) 
+[04.  Getting started with bioinformatics coding](https://github.com/asadprodhan/Getting-started-with-bioinformatics-coding) 
+
+
+[05.  About the PATH](https://github.com/asadprodhan/About-the-PATH) 
 
 
 <br />
