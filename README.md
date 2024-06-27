@@ -16,7 +16,7 @@
 </p>
 
 <p align = center>
-Bioinformatics Computing
+Bioinf Computing
 </p>
 
 
