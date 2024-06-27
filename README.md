@@ -185,7 +185,7 @@ Bioinformatics analysis using remote supercomputers
 [07.  Gene seq extraction from multiple genomes](https://github.com/asadprodhan/Gene_seq_extraction_from_multiple_genomes)
 
 
-[08.  Fasta-file-splitted-into-individual-entries](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries)
+[08.  Fasta file splitted into individual entries](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries)
 
 
 <br />
