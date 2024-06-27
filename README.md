@@ -24,34 +24,34 @@ Bioinformatics Computing
 ## **Content**
 
 
-[01.  Getting Started](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#getting-started)
+[Chapter 01.  Getting Started](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#getting-started)
 
 
-[02.  R](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#r)
+[Chapter 02.  R](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#r)
 
 
-[03.  Bash](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bash)
+[Chapter 03.  Bash](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bash)
 
 
-[04.  Remote Computing](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#remote-computing)
+[Chapter 04.  Remote Computing](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#remote-computing)
 
 
-[05.  Download NCBI data](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#download-ncbi-data)
+[Chapter 05.  Download NCBI data](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#download-ncbi-data)
 
 
-[06.  Nanopore](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#nanopore)
+[Chapter 06.  Nanopore](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#nanopore)
 
 
-[07.  Bioinformatics Analysis](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bioinformatics-analysis)
+[Chapter 07.  Bioinformatics Analysis](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bioinformatics-analysis)
 
 
-[08.  Bioinformatics Pipelines](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bioinformatics-pipelines)
+[Chapter 08.  Bioinformatics Pipelines](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bioinformatics-pipelines)
 
 
-[09.  Writing](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#writing)
+[Chapter 09.  Writing](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#writing)
 
 
-[10.  Talks](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#talks)
+[Chapter 10.  Talks](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#talks)
 
 
 
