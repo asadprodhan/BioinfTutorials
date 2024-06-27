@@ -25,20 +25,16 @@ Bioinformatics analysis using remote supercomputers
 <br />
 
 
-## **Coding Workshops**
-
-[01.  How to set up Windows Subsystem for Linux (WSL)?](https://github.com/asadprodhan/How_to_set_up_WSL)
-
-
-<br />
-
-
 <br />
 
 
 ## **Coding learning resources**
 
-[01.  Getting started with bioinformatics coding](https://github.com/asadprodhan/Getting-started-with-bioinformatics-coding)
+
+[01.  How to set up Windows Subsystem for Linux (WSL)?](https://github.com/asadprodhan/How_to_set_up_WSL)
+
+
+[02.  Getting started with bioinformatics coding](https://github.com/asadprodhan/Getting-started-with-bioinformatics-coding)
 
 
 <br />
