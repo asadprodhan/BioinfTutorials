@@ -1,4 +1,4 @@
-# Bioinformatics Tutorials
+# Bioinf Tutorials
 
 
 ### **AUTHOR:** **Dr Asad Prodhan** https://asadprodhan.github.io/ 
