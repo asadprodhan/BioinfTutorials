@@ -208,6 +208,8 @@ Bioinformatics analysis using remote supercomputers
 [04.  Bacteria ID using Illumina sequencing](https://github.com/asadprodhan/Bacteria_ID_Illumina)
 
 
+[05.  RNAseq](https://www.researchsquare.com/article/rs-2806717/v1)
+
 <br />
 
 
