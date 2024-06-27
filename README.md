@@ -110,7 +110,7 @@ Bioinformatics analysis using remote supercomputers
 <br />
 
 
-## **Remote computing**
+## **Remote Computing**
 
 
 [01.  How to connect to a remote Linux computer](https://github.com/asadprodhan/How-to-connect-to-a-remote-Linux_computer) 
