@@ -203,6 +203,9 @@ Bioinformatics analysis using remote supercomputers
 [03.  phyloTreeHPC (an automated, reproducible, and scalable workflow for Bayesian phylogenetic analysis using a HPC cluster, Nextflow, and Singularity container)](https://github.com/asadprodhan/phyloTreeHPC) 
 
 
+[04.  Bacteria ID using Illumina sequencing](https://github.com/asadprodhan/Bacteria_ID_Illumina)
+
+
 <br />
 
 
