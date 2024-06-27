@@ -46,37 +46,6 @@ Bioinformatics analysis using remote supercomputers
 <br />
 
 
-## **Download NCBI data**
-
-
-[01.  Genome sequence metadata [manual]](https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI)
-
-
-[02.  Genome sequence metadata [command line]](https://github.com/asadprodhan/How-to-download-the-metadata-of-all-publicly-available-genome-sequences-of-an-organism)
-
-
-[03.  Genome sequences [manual]](https://github.com/asadprodhan/How_to_download_genome_sequences_manually)
-
-
-[04.  Genome sequences using datasets [command line]](https://github.com/asadprodhan/How-to-download-all-the-available-genome-sequences-of-an-organism-automatically)
-
-
-[05.  Genome sequences using wget [command line]](https://github.com/asadprodhan/How-to-download-genomes-using-the-accession-number)
-
-  
-[06.  RefSeq genome sequences using wget [command line]](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
-
-
-[07.  How to download genomes using the accession number](https://github.com/asadprodhan/How-to-download-genomes-using-the-accession-number)
-
-  
-[08.  Downloading Genomes from RefSeq](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
-
-
-
-<br />
-
-
 ## **R**
 
 
@@ -120,6 +89,36 @@ Bioinformatics analysis using remote supercomputers
 
 
 [03.  How to mount My Cloud NAS device to Linux computer](https://github.com/asadprodhan/How-to-mount-My-Cloud-NAS-device-to-Linux) 
+
+
+<br />
+
+
+## **Download NCBI data**
+
+
+[01.  Genome sequence metadata [manual]](https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI)
+
+
+[02.  Genome sequence metadata [command line]](https://github.com/asadprodhan/How-to-download-the-metadata-of-all-publicly-available-genome-sequences-of-an-organism)
+
+
+[03.  Genome sequences [manual]](https://github.com/asadprodhan/How_to_download_genome_sequences_manually)
+
+
+[04.  Genome sequences using datasets [command line]](https://github.com/asadprodhan/How-to-download-all-the-available-genome-sequences-of-an-organism-automatically)
+
+
+[05.  Genome sequences using wget [command line]](https://github.com/asadprodhan/How-to-download-genomes-using-the-accession-number)
+
+  
+[06.  RefSeq genome sequences using wget [command line]](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
+
+
+[07.  How to download genomes using the accession number](https://github.com/asadprodhan/How-to-download-genomes-using-the-accession-number)
+
+  
+[08.  Downloading Genomes from RefSeq](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
 
 
 <br />
