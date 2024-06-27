@@ -13,7 +13,7 @@
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/Bioinformatics_Educational_Resources/blob/main/Parts_of_a_Supercomputer_Setonix.png"
- align="center" width=60% height=50% >
+ align="center" width=80% height=50% >
     
 </p>
 
