@@ -182,6 +182,9 @@ Bioinformatics analysis using remote supercomputers
 [06.  How to extract individual entries from a large fasta file](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries) 
 
 
+[07.  Gene seq extraction from multiple genomes](https://github.com/asadprodhan/Gene_seq_extraction_from_multiple_genomes)
+
+
 <br />
 
 
