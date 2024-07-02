@@ -173,10 +173,10 @@ Bioinformatics Computing
 [06.  RefSeq genome sequences using wget [command line]](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
 
 
-[07.  How to download genomes using the accession number](https://github.com/asadprodhan/How-to-download-genomes-using-the-accession-number)
+[07.  Downloading genomes using the accession number](https://github.com/asadprodhan/How-to-download-genomes-using-the-accession-number)
 
   
-[08.  Downloading Genomes from RefSeq](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
+[08.  Downloading genomes from RefSeq](https://github.com/asadprodhan/Downloading_genomes_from_RefSeq)
 
 
 [09.  Downloading raw reads](https://github.com/asadprodhan/A-Guide-to-Automatically-Downloading-NCBI-SRA-Reads)
