@@ -1,8 +1,33 @@
-# Bioinf Tutorials
+<h1 align="center">Bioinformatics Tutorials</h1>
 
 
-### **AUTHOR:** **Dr Asad Prodhan** https://asadprodhan.github.io/ 
-[![License GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-yellow.svg)]([https://github.com/asadprodhan/How_to_set_up_WSL#GPL-3.0-1-ov-fil](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#GPL-3.0-1-ov-file)e)
+
+<p align="center">
+<a href="https://github.com/asadprodhan">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dr+Asad+Prodhan;Laboratory+Scientist+%7C+Adjunct+Senior+Lecturer+%7C+Mentor;Diagnostic+Bioinformatics+%7C+Biosecurity+%7C+HTS+%7C+Data+Automation" alt="Typing SVG" />
+</a>
+
+  
+<br/>
+<a href="[https://asadprodhan.github.io/](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#GPL-3.0-1-ov-file)">
+    <img src="https://img.shields.io/badge/License GPL 3.0-yellow?style=flat-square"></a> 
+<a href="https://asadprodhan.github.io/">
+    <img src="https://img.shields.io/badge/Website-red?style=flat-square"></a> 
+<a href="https://x.com/Asad_Prodhan">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter"></a> 
+<a href="https://asadprodhan.github.io/files/Asad_Prodhan_CV_10-07-2023.pdf">
+    <img src="https://img.shields.io/badge/CV-yellow?style=flat-square&logo=adobe"></a>  
+<a href="https://www.linkedin.com/in/asadprodhan/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:prodhan.82@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href='https://scholar.google.com.au/citations?user=ZQzQadIAAAAJ&hl=en' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'></a>
+<a href="https://orcid.org/0000-0002-1320-3486">
+    <img src="https://img.shields.io/badge/ORCID-green?style=flat-square&logo=ORCID&logoColor=white"></a>
+
+
+<br/> 
 
 
 <br />
@@ -16,7 +41,7 @@
 </p>
 
 <p align = center>
-Bioinf Computing
+Bioinformatics Computing
 </p>
 
 
