@@ -1,4 +1,4 @@
-<h1 align="center">Bioinformatics Tutorials</h1>
+<h1 align="center">Practical Bioinformatics for Biologists</h1>
 
 
 
@@ -33,69 +33,64 @@
 <br />
 
 
-<p align="center">
-  <img 
-    src="https://github.com/asadprodhan/Bioinformatics_Educational_Resources/blob/main/Parts_of_a_Supercomputer_Setonix.png"
- align="center" width=45% height=30% >
-    
-</p>
-
-<p align = center>
-Bioinformatics Computing
-</p>
-
-
-
 ## **Content**
 
 
-[Chapter 01.  Getting Started](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#getting-started)
 
 
-[Chapter 02.  R](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#r)
+[Chapter 01.  Bioinformatics Basics](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#getting-started)
 
 
-[Chapter 03.  Bash](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bash)
+[Chapter 02.  An Introduction to R Programming](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#r)
 
 
-[Chapter 04.  Remote Computing](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#remote-computing)
+[Chapter 03.  An Introduction to Bash Commands](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bash)
 
 
-[Chapter 05.  Download NCBI data](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#download-ncbi-data)
+[Chapter 04.  An Introduction to Remote Computing](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#remote-computing)
 
 
-[Chapter 06.  Nanopore](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#nanopore)
+[Chapter 05.  How to Retrieve Public Data](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#download-ncbi-data)
 
 
-[Chapter 07.  Bioinformatics Analysis](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bioinformatics-analysis)
+[Chapter 06.  DNA Data Wrangling](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#download-ncbi-data)
 
 
-[Chapter 08.  Bioinformatics Pipelines](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bioinformatics-pipelines)
+[Chapter 07.  Nanopore Sequencing Data Analysis](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#nanopore)
 
 
-[Chapter 09.  Writing](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#writing)
+[Chapter 08.  Bioinformatics Tools for Pest and Pathogen Diagnosis](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bioinformatics-analysis)
 
 
-[Chapter 10.  Talks](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#talks)
+[Chapter 09.  Bioinformatics Workflow for Transcriptome Analysis Using Illumina Sequencing](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bioinformatics-pipelines)
+
+
+[Chapter 10.  Bioinformatics Workflow for Microbiome Data Analysis](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#bioinformatics-pipelines)
+
+
+[Chapter 11.  Writing Manuscripts](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#writing)
+
+
+[Chapter 12.  My Bioinformatics Presentations](https://github.com/asadprodhan/Bioinformatics_Educational_Resources#talks)
 
 
 
 <br />
 
 
-## **Getting Started**
+## **Chapter 01.  Bioinformatics Basics**
 
 
-[01.  A beginner's guide to Bioinformatics](https://github.com/asadprodhan/A-beginner-s-guide-to-Bioinformatics)
+[01.  How to set up Windows Subsystem for Linux (WSL)?](https://github.com/asadprodhan/How_to_set_up_WSL)
 
 
-[02.  How to set up Windows Subsystem for Linux (WSL)?](https://github.com/asadprodhan/How_to_set_up_WSL)
+[02.  Navigating a Linux Computer](https://github.com/asadprodhan/Navigating_a_Linux_computer)
 
 
-[03.  Navigating a Linux Computer](https://github.com/asadprodhan/Navigating_a_Linux_computer)
+[03.  Getting started with bioinformatics coding](https://github.com/asadprodhan/Getting-started-with-bioinformatics-coding) 
 
 
-[04.  Getting started with bioinformatics coding](https://github.com/asadprodhan/Getting-started-with-bioinformatics-coding) 
+[04.  A beginner's guide to Bioinformatics](https://github.com/asadprodhan/A-beginner-s-guide-to-Bioinformatics)
 
 
 [05.  About the PATH](https://github.com/asadprodhan/About-the-PATH) 
@@ -104,7 +99,7 @@ Bioinformatics Computing
 <br />
 
 
-## **R**
+## **Chapter 02.  An Introduction to R Programming**
 
 
 [01.  Why graduate students should learn R?](https://github.com/asadprodhan/Why_graduate_students_should_learn_R)
@@ -122,37 +117,40 @@ Bioinformatics Computing
 <br />
 
 
-## **Bash**
+## **Chapter 03.  An Introduction to Bash Commands**
 
 
-[01.  Command Line Basics](https://github.com/asadprodhan/Conference_Talks/blob/main/Command_Line_Basics_AsadProdhan.pdf) 
+[01.  Navigating a Linux Computer](https://github.com/asadprodhan/Navigating_a_Linux_computer.git) 
 
 
-[02.  How to extract individual entries from a large fasta file](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries) 
+[02.  Command Line Basics](https://github.com/asadprodhan/Conference_Talks/blob/main/Command_Line_Basics_AsadProdhan.pdf) 
 
 
-[03.  A Bash Script Showing Directory Properties in Linux](https://github.com/asadprodhan/A-Bash-Script-Showing-Directory-Properties-in-Linux) 
+[03.  Bash Script to Extract Individual Entries from a Large fasta File](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries) 
 
 
-<br />
-
-
-## **Remote Computing**
-
-
-[01.  How to connect to a remote Linux computer](https://github.com/asadprodhan/How-to-connect-to-a-remote-Linux_computer) 
-
-
-[02.  How to connect to Pawsey’s Nimbus Instance](https://github.com/asadprodhan/How_to_connect_to_Pawsey_nimbus_instance) 
-
-
-[03.  How to mount My Cloud NAS device to Linux computer](https://github.com/asadprodhan/How-to-mount-My-Cloud-NAS-device-to-Linux) 
+[04.  Bash Scrip To Show Directory Properties](https://github.com/asadprodhan/A-Bash-Script-Showing-Directory-Properties-in-Linux) 
 
 
 <br />
 
 
-## **Download NCBI data**
+## **Chapter 04.  An Introduction to Remote Computing**
+
+
+[01.  How to Connect to a Remote Linux Computer](https://github.com/asadprodhan/How-to-connect-to-a-remote-Linux_computer) 
+
+
+[02.  How to Connect to Pawsey’s Nimbus Instance](https://github.com/asadprodhan/How_to_connect_to_Pawsey_nimbus_instance) 
+
+
+[03.  How to Mount Cloud NAS Device to Linux Computer](https://github.com/asadprodhan/How-to-mount-My-Cloud-NAS-device-to-Linux) 
+
+
+<br />
+
+
+## **Chapter 05.  How to Retrieve Public Data**
 
 
 [01.  Genome sequence metadata [manual]](https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI)
@@ -185,43 +183,64 @@ Bioinformatics Computing
 <br />
 
 
-## **Nanopore**
+## **Chapter 06.  DNA Data Wrangling**
 
 
-[01.  An introduction to Nanopore DNA sequencing and data analysis](https://github.com/asadprodhan/Conference_Talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf) 
+[01.  How to Filter Out Contigs from a Genome Assembly](https://github.com/asadprodhan/How-to-filter-contigs-from-a-genome-assembly)
 
 
-[02.  Reducing storage space by converting Nanopore fast5 files to slow5 using slow5tools](https://github.com/asadprodhan/Reducing-storage-space-by-converting-Nanopore-fast5-to-slow5-using-slow5tools)
+[02.  How to Extract Individual Entries from a Large fasta File](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries)
 
 
-[03.  GPU-accelerated guppy basecalling](https://github.com/asadprodhan/GPU-accelerated-guppy-basecalling)
+[03.  Hoq to Filtering out Invalid Characters from fastq Reads](https://github.com/asadprodhan/Filtering-out-invalid-characters-from-fastq-reads)
 
 
-[04.  Dorado basecalling](https://github.com/asadprodhan/Dorado_Basecalling)
+[04.  How to Extract Individual Entries from a Large fasta File](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries) 
 
 
-[05.  Dorado basecalled reads improve old bacterial genome assembly](https://github.com/asadprodhan/Dorado-basecalled-reads-improve-old-bacterial-genome-assembly-)
+[05.  How to Automate Gene Seq Extraction from Multiple Genomes](https://github.com/asadprodhan/Gene_seq_extraction_from_multiple_genomes)
 
 
-[06.  Automating sample labelling after Nanopore sequencing](https://github.com/asadprodhan/Automating-sample-labelling-after-Nanopore-sequencing)
-
-
-[07.  How to channel sequencing reads from multiple subdirectories into nextflow pipeline](https://github.com/asadprodhan/How-to-channel-sequencing-reads-from-multiple-subdirectories-into-nextflow-pipeline) 
-
-
-[08.  How to filter out contigs from a genome assembly file](https://github.com/asadprodhan/How-to-filter-contigs-from-a-genome-assembly)
-
-
-[09.  How to extract individual entries from a large fasta file](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries)
-
-
-[10.  Filtering out invalid characters from fastq reads](https://github.com/asadprodhan/Filtering-out-invalid-characters-from-fastq-reads)
+[06.  How to Split a Concatenated fasta File into Individual Files](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries)
 
 
 <br />
 
 
-## **Bioinformatics Analysis**
+
+## **Chapter 07.  Nanopore Sequencing Data Analysis**
+
+
+[01.  An Introduction to Nanopore DNA Sequencing and Data Analysis](https://github.com/asadprodhan/Conference_Talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf) 
+
+
+[02.  Automating Sample Labelling after Nanopore Sequencing](https://github.com/asadprodhan/Automating-sample-labelling-after-Nanopore-sequencing)
+
+
+[03.  GPU-Accelerated Guppy Basecalling](https://github.com/asadprodhan/GPU-accelerated-guppy-basecalling)
+
+
+[04.  Dorado Basecalling](https://github.com/asadprodhan/Dorado_Basecalling)
+
+
+[05.  Dorado Basecalled Reads Improve Old Bacterial Genome Assemblies](https://github.com/asadprodhan/Dorado-basecalled-reads-improve-old-bacterial-genome-assembly-)
+
+
+
+[06.  How to Channel Sequencing Reads from Multiple Subdirectories into Nextflow Pipeline](https://github.com/asadprodhan/How-to-channel-sequencing-reads-from-multiple-subdirectories-into-nextflow-pipeline) 
+
+
+[07.  Miniasm (setting up and running miniasm assembler](https://github.com/asadprodhan/Setting-up-and-running-Miniasm-assembler)
+
+
+
+[08.  Reducing Storage Space by Converting Nanopore fast5 Files to slow5](https://github.com/asadprodhan/Reducing-storage-space-by-converting-Nanopore-fast5-to-slow5-using-slow5tools)
+
+
+<br />
+
+
+## **Chapter 08.  Bioinformatics Tools for Pest and Pathogen Diagnosis**
 
 
 [01.  Blastn (database download, execution, hit sequence extraction, and possible errors)](https://github.com/asadprodhan/blastn)
@@ -236,42 +255,46 @@ Bioinformatics Computing
 [04.  Kraken 2 (running on HPC using singularity container and nextflow?)](https://github.com/asadprodhan/How-to-run-Kraken2-on-HPC-using-Singularity-container-and-Nextflow)
 
 
-[05.  Miniasm (setting up and running miniasm assembler](https://github.com/asadprodhan/Setting-up-and-running-Miniasm-assembler)
+[05.  sangerFlow (a Sanger sequencing-based bioinformatics pipeline for pests and pathogens identification)](https://github.com/asadprodhan/sangerFlow)
 
 
-[06.  How to extract individual entries from a large fasta file](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries) 
+[06.  phyloTree (an automated, reproducible, and scalable workflow for Bayesian phylogenetic analysis using Nextflow and Singularity)](https://github.com/asadprodhan/phyloTree)
 
 
-[07.  Gene seq extraction from multiple genomes](https://github.com/asadprodhan/Gene_seq_extraction_from_multiple_genomes)
+[07.  phyloTreeHPC (an automated, reproducible, and scalable workflow for Bayesian phylogenetic analysis using a HPC cluster, Nextflow, and Singularity container)](https://github.com/asadprodhan/phyloTreeHPC) 
 
 
-[08.  Fasta file splitted into individual entries](https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries)
+[08.  Diagnosing Bacteria Using Illumina Sequencing](https://github.com/asadprodhan/Bacteria_ID_Illumina)
 
 
 <br />
 
 
-## **Bioinformatics Pipelines**
+## **Chapter 09.  Bioinformatics Workflow for Transcriptome Analysis Using Illumina Sequencing**
 
 
-[01.  sangerFlow (a Sanger sequencing-based bioinformatics pipeline for pests and pathogens identification)](https://github.com/asadprodhan/sangerFlow)
+[01.  How to Analysis Transcriptome Illumina Sequencing Reads](https://www.researchsquare.com/article/rs-2806717/v1)
 
 
-[02.  phyloTree (an automated, reproducible, and scalable workflow for Bayesian phylogenetic analysis using Nextflow and Singularity)](https://github.com/asadprodhan/phyloTree)
+[02.  How to Make Hierarchical Clustering Heatmap of the Target DEGs and Plot Individual Clusters](https://github.com/asadprodhan/DEGs_HeatMap_InvdividualClusterMap)
 
 
-[03.  phyloTreeHPC (an automated, reproducible, and scalable workflow for Bayesian phylogenetic analysis using a HPC cluster, Nextflow, and Singularity container)](https://github.com/asadprodhan/phyloTreeHPC) 
+[03.  How to Do GO Term Enrichment Analysis using GOMCL](https://github.com/asadprodhan/GOMCL)
 
-
-[04.  Bacteria ID using Illumina sequencing](https://github.com/asadprodhan/Bacteria_ID_Illumina)
-
-
-[05.  RNAseq](https://www.researchsquare.com/article/rs-2806717/v1)
 
 <br />
 
 
-## **Writing**
+## **Chapter 10.  Bioinformatics Workflow for Microbiome Data Analysis**
+
+
+### **In Progress**
+
+
+<br />
+
+
+## **Chapter 11.  Writing Manuscripts**
 
 
 [01.  Writing and Publishing Protocols using GitHub](https://github.com/asadprodhan/Writing-and-Publishing-Protocols-Using-GitHub)
@@ -283,7 +306,7 @@ Bioinformatics Computing
 <br />
 
 
-## **Talks**
+## **Chapter 12.  My Bioinformatics Presentations**
 
 
 [01.  An introduction to Nanopore DNA sequencing and data analysis. Nanopore Workshop for Biosecurity, Curtin University, Perth, Australia, 27-29 June 2023.](https://github.com/asadprodhan/Invited_talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf)
