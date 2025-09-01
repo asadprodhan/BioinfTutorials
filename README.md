@@ -300,10 +300,10 @@
 ## **Chapter 11.  Building Customised Database**
 
 
-[01.  Writing and Publishing Protocols using GitHub](https://github.com/asadprodhan/Writing-and-Publishing-Protocols-Using-GitHub)
+[01.  How to Build a Customised Kraken2 Database](https://github.com/asadprodhan/How_to_build_a_Customised_Kraken2_Database)
 
 
-[02.  Publishing a paper. Professor Hans Lambers](https://github.com/asadprodhan/Publishing_a_paper_by_Prof_Lambers/blob/main/Publishing%20a%20paper%202013.pdf)
+[02.  How to Build a Customised Bracken Database](XXX)
 
 
 <br />
@@ -312,10 +312,10 @@
 ## **Chapter 12.  Writing Manuscripts**
 
 
-[01.  How to Build a Customised Kraken2 Database](https://github.com/asadprodhan/How_to_build_a_Customised_Kraken2_Database)
+[01.  Writing and Publishing Protocols using GitHub](https://github.com/asadprodhan/Writing-and-Publishing-Protocols-Using-GitHub)
 
 
-[02.  How to Build a Customised Bracken Database](XXX)
+[02.  Publishing a paper. Professor Hans Lambers](https://github.com/asadprodhan/Publishing_a_paper_by_Prof_Lambers/blob/main/Publishing%20a%20paper%202013.pdf)
 
 
 <br />
