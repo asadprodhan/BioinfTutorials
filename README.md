@@ -288,13 +288,16 @@
 ## **Chapter 10.  Bioinformatics Workflow for Microbiome Data Analysis**
 
 
-### **In Progress**
+[01.  Environmental Rhizosheath Microbiome Sampling Protocol](https://github.com/asadprodhan/Rhizosheath_Microbiome_Sampling_Protocol)
+
+
+[02.  A Bioinformatics Pipeline for 16s Microbiome Data](https://github.com/asadprodhan/Microbiome_16s)
 
 
 <br />
 
 
-## **Chapter 11.  Writing Manuscripts**
+## **Chapter 11.  Building Customised Database**
 
 
 [01.  Writing and Publishing Protocols using GitHub](https://github.com/asadprodhan/Writing-and-Publishing-Protocols-Using-GitHub)
@@ -306,7 +309,19 @@
 <br />
 
 
-## **Chapter 12.  My Bioinformatics Presentations**
+## **Chapter 12.  Writing Manuscripts**
+
+
+[01.  How to Build a Customised Kraken2 Database](https://github.com/asadprodhan/How_to_build_a_Customised_Kraken2_Database)
+
+
+[02.  How to Build a Customised Bracken Database](XXX)
+
+
+<br />
+
+
+## **Chapter 13.  My Bioinformatics Presentations**
 
 
 [01.  An introduction to Nanopore DNA sequencing and data analysis. Nanopore Workshop for Biosecurity, Curtin University, Perth, Australia, 27-29 June 2023.](https://github.com/asadprodhan/Invited_talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf)
