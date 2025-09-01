@@ -1,4 +1,4 @@
-<h1 align="center">Practical Bioinformatics for Biologists</h1>
+<h1 align="center">Bioinformatics Core</h1>
 
 
 
