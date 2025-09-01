@@ -78,7 +78,7 @@
 <br />
 
 
-## **Chapter 01.  Bioinformatics Basics**
+## **CHAPTER 01.  BIOINFORMATICS BASICS**
 
 
 [01.  How to set up Windows Subsystem for Linux (WSL)?](https://github.com/asadprodhan/How_to_set_up_WSL)
@@ -99,7 +99,7 @@
 <br />
 
 
-## **Chapter 02.  An Introduction to R Programming**
+## **CHAPTER 02.  R**
 
 
 [01.  Why graduate students should learn R?](https://github.com/asadprodhan/Why_graduate_students_should_learn_R)
@@ -117,7 +117,7 @@
 <br />
 
 
-## **Chapter 03.  An Introduction to Bash Commands**
+## **CHAPTER 03.  BASH**
 
 
 [01.  Navigating a Linux Computer](https://github.com/asadprodhan/Navigating_a_Linux_computer.git) 
@@ -135,7 +135,7 @@
 <br />
 
 
-## **Chapter 04.  An Introduction to Remote Computing**
+## **CHAPTER 04.  REMOTE COMPUTING**
 
 
 [01.  How to Connect to a Remote Linux Computer](https://github.com/asadprodhan/How-to-connect-to-a-remote-Linux_computer) 
@@ -150,7 +150,7 @@
 <br />
 
 
-## **Chapter 05.  How to Retrieve Public Data**
+## **CHAPTER 05.  RETRIEVE PUBLIC DATA**
 
 
 [01.  Genome sequence metadata [manual]](https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI)
@@ -183,7 +183,7 @@
 <br />
 
 
-## **Chapter 06.  DNA Data Wrangling**
+## **CHAPTER 06.  DNA DATA WRANGLING**
 
 
 [01.  How to Filter Out Contigs from a Genome Assembly](https://github.com/asadprodhan/How-to-filter-contigs-from-a-genome-assembly)
@@ -207,8 +207,7 @@
 <br />
 
 
-
-## **Chapter 07.  Nanopore Sequencing Data Analysis**
+## **CHAPTER 07.  NANOPORE**
 
 
 [01.  An Introduction to Nanopore DNA Sequencing and Data Analysis](https://github.com/asadprodhan/Conference_Talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf) 
@@ -240,7 +239,7 @@
 <br />
 
 
-## **Chapter 08.  Bioinformatics Tools for Pest and Pathogen Diagnosis**
+## **CHAPTER 08.  PEST AND PATHOGEN DIAGNOSIS**
 
 
 [01.  Blastn (database download, execution, hit sequence extraction, and possible errors)](https://github.com/asadprodhan/blastn)
@@ -270,7 +269,7 @@
 <br />
 
 
-## **Chapter 09.  Bioinformatics Workflow for Transcriptome Analysis Using Illumina Sequencing**
+## **CHAPTER 09.  TRANSCRIPTOMICS**
 
 
 [01.  How to Analysis Transcriptome Illumina Sequencing Reads](https://www.researchsquare.com/article/rs-2806717/v1)
@@ -285,7 +284,7 @@
 <br />
 
 
-## **Chapter 10.  Bioinformatics Workflow for Microbiome Data Analysis**
+## **CHAPTER 10.  MICROBIOME**
 
 
 [01.  Environmental Rhizosheath Microbiome Sampling Protocol](https://github.com/asadprodhan/Rhizosheath_Microbiome_Sampling_Protocol)
@@ -297,7 +296,7 @@
 <br />
 
 
-## **Chapter 11.  Building Customised Database**
+## **CHAPTER 11.  BUILDING CUSTOMISED DATABASE**
 
 
 [01.  How to Build a Customised Kraken2 Database](https://github.com/asadprodhan/How_to_build_a_Customised_Kraken2_Database)
@@ -309,7 +308,7 @@
 <br />
 
 
-## **Chapter 12.  Writing Manuscripts**
+## **CHAPTER 12.  WRITING**
 
 
 [01.  Writing and Publishing Protocols using GitHub](https://github.com/asadprodhan/Writing-and-Publishing-Protocols-Using-GitHub)
@@ -321,7 +320,7 @@
 <br />
 
 
-## **Chapter 13.  My Bioinformatics Presentations**
+## **CHAPTER 13.  PRESENTATIONS**
 
 
 [01.  An introduction to Nanopore DNA sequencing and data analysis. Nanopore Workshop for Biosecurity, Curtin University, Perth, Australia, 27-29 June 2023.](https://github.com/asadprodhan/Invited_talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf)
